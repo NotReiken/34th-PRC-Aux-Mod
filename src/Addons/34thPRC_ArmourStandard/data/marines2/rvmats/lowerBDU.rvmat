@@ -48,7 +48,7 @@ class Stage3
 };
 class Stage4
 {
-	texture="34thPRC_ArmourStandard\data\marines2\rvmats\TrooperLowerBDU_AS.paa";
+	texture="MA_Armor\data\Uniforms\Marine\data\MA_Base_TrooperLowerBDU_AS.paa";
 	uvSource="tex";
 	class uvTransform
 	{
@@ -60,7 +60,7 @@ class Stage4
 };
 class Stage5
 {
-	texture="34thPRC_ArmourStandard\data\marines2\rvmats\TrooperLowerBDU_SMDI.paa";
+	texture="MA_Armor\data\Uniforms\Marine\data\MA_Base_TrooperLowerBDU_SMDI.paa";
 	uvSource="tex";
 	class uvTransform
 	{
